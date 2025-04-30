@@ -9,7 +9,7 @@
 - 😄 Pronouns: he/him
 
 ### 📊 GitHub Stats
-![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![YourName's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhruv852&show_icons=true&theme=radical)
 
 ### 📈 Contribution Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=radical&hide_border=true)](https://git.io/streak-stats)
