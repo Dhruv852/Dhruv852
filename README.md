@@ -77,6 +77,7 @@
 ---
 
 ## 🔝 Top Contributed Repositories
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Dhruv852&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
