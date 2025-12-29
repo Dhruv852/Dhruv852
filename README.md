@@ -23,7 +23,7 @@
 😄 **he/him**
 
 </td>
-<td width="40%" align="center"></td>
+<td width="40%" align="center">                </td>
 <td width="35%" align="right">
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
