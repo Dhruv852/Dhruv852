@@ -15,8 +15,12 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Dhruv852&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repositories
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100"/>
+
+![](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Top+Contributed+Repositories)
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Dhruv852&icon=0&color=3)](https://visitcount.itsvg.in)
