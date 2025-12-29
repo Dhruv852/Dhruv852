@@ -9,11 +9,10 @@
 </p>
 
 ---
-
+<div align = "center">
 <table>
 <tr>
 <td width="85%">
-
 ## 👨‍💻 About Me
 
 🚀 Building **ML-powered applications**  
@@ -31,7 +30,7 @@
 </td>
 </tr>
 </table>
-
+</div>
 ---
 
 ## 🌐 Socials
