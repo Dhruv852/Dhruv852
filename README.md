@@ -1,53 +1,69 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
+</div>
 
-<h1 align="left">Hi 👋, I'm Dhruv Tiwari</h1>
-<h3 align="left">Machine Learning & AI Enthusiast</h3>
+<div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
+<h1>Hi 👋, I'm Dhruv Tiwari</h1>
+<h3>Machine Learning & AI Enthusiast</h3>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
 
+</div>
 
 ---
 
+<div align="center">
 
-<table>
+<table width="100%">
 <tr>
-<td width="85%">
-## 👨‍💻 About Me
+<td width="65%" align="center">
+
+<h2>👨‍💻 About Me</h2>
+
+<div style="text-align: justify; max-width: 650px; margin: auto;">
 
 🚀 Building **ML-powered applications**  
 🧠 Learning **AI, ML & intelligent systems**  
-🤝 Open to collabs, research & open-source  
+🤝 Open to collaborations, research & open-source  
 📬 **dhruvtiwari.21.2004@gmail.com**  
 😄 **he/him**
 
+</div>
+
 </td>
-<td width="40%" align="center">                </td>
-<td width="35%" align="right">
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="280"/>
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-tiwari21/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvtiwari.21.2004@gmail.com)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💻 Tech Stack
 
 ### 👨‍💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
 
@@ -75,34 +91,47 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Dhruv852&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Dhruv852&theme=shadow_green&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv852&theme=shadow_green&hide_border=false&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=Dhruv852&theme=shadow_green&include_all_commits=true&count_private=true" />
+<br/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=Dhruv852&theme=shadow_green" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv852&theme=shadow_green&layout=compact" />
+
+</div>
 
 ---
+
+<div align="center">
 
 ## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" />
+
+</div>
 
 ---
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Top+Contributed+Repositories" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Top+Contributed+Repositories" />
 
- 🔹 [HealthOracle](https://github.com/Dhruv852/HealthOracle) — AI-powered health assistant  
- 🔹 [Suvidha AI](https://github.com/Dhruv852/suvidha) — GFR & procurement AI assistant  
- 🔹 [LuigiBOT](https://github.com/Dhruv852/luigi.botV1) — Multimodal Mario Themed Chatbot Application 
+🔹 **[HealthOracle](https://github.com/Dhruv852/HealthOracle)** — AI-powered health assistant  
+🔹 **[Suvidha AI](https://github.com/Dhruv852/suvidha)** — GFR & procurement AI assistant  
+🔹 **[LuigiBOT](https://github.com/Dhruv852/luigi.botV1)** — Multimodal Mario-themed chatbot  
 
----
+<br/>
 
-[![](https://visitcount.itsvg.in/api?id=Dhruv852&icon=0&color=3)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=Dhruv852&icon=0&color=3"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 
+</div>
