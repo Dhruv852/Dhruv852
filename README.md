@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🚀 Building ML-powered applications<br>🧠 Learning AI, ML & intelligent systems<br>🤝 Open to collabs, research & open-source<br>📬 dhruvtiwari.21.2004@gmail.com<br>😄 he/him
 
 
@@ -11,9 +11,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Dhruv852&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Dhruv852&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv852&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhruv852&theme=merko&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
