@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Dhruv Tiwari</h1>
 <h3 align="center">Machine Learning & AI Enthusiast</h3>
 
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
 
 
@@ -96,15 +95,14 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Top+Contributed+Repositories" />
 </p>
-<ul align = "center">
-<li>- 🔹 [HealthOracle](https://github.com/Dhruv852/HealthOracle) — AI-powered health assistant  </li>
-<li>- 🔹 [Suvidha AI](https://github.com/Dhruv852/suvidha) — GFR & procurement AI assistant  </li>
-<li>- 🔹 [LuigiBOT](https://github.com/Dhruv852/luigi.botV1) — Multimodal Mario Themed Chatbot Application </li>
-</ul>
+
+ 🔹 [HealthOracle](https://github.com/Dhruv852/HealthOracle) — AI-powered health assistant  
+ 🔹 [Suvidha AI](https://github.com/Dhruv852/suvidha) — GFR & procurement AI assistant  
+ 🔹 [LuigiBOT](https://github.com/Dhruv852/luigi.botV1) — Multimodal Mario Themed Chatbot Application 
 
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Dhruv852&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
+
