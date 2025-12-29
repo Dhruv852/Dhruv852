@@ -9,6 +9,7 @@
 </p>
 
 ---
+
 <div align = "center">
 <table>
 <tr>
@@ -30,7 +31,7 @@
 </td>
 </tr>
 </table>
-</div>
+
 ---
 
 ## 🌐 Socials
@@ -105,3 +106,4 @@
 [![](https://visitcount.itsvg.in/api?id=Dhruv852&icon=0&color=3)](https://visitcount.itsvg.in)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</div>
