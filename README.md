@@ -75,18 +75,17 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-## 🔝 Top Contributed Repositories
-
-- 🔹 [HealthOracle](https://github.com/Dhruv852/HealthOracle) — AI-powered health assistant  
-- 🔹 [Suvidha AI](https://github.com/Dhruv852/suvidha) — GFR & procurement AI assistant  
-- 🔹 [LuigiBOT](https://github.com/Dhruv852/luigi.botV1) — Multimodal Mario Themed Chatbot Application
-
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Top+Contributed+Repositories" />
 </p>
+
+- 🔹 [HealthOracle](https://github.com/Dhruv852/HealthOracle) — AI-powered health assistant  
+- 🔹 [Suvidha AI](https://github.com/Dhruv852/suvidha) — GFR & procurement AI assistant  
+- 🔹 [LuigiBOT](https://github.com/Dhruv852/luigi.botV1) — Multimodal Mario Themed Chatbot Application
+
 
 ---
 
