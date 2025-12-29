@@ -75,9 +75,12 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
-
 ## 🔝 Top Contributed Repositories
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=Dhruv852&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+- 🔹 [HealthOracle](https://github.com/Dhruv852/HealthOracle) — AI-powered health assistant  
+- 🔹 [Suvidha AI](https://github.com/Dhruv852/suvidha) — GFR & procurement AI assistant  
+- 🔹 [LuigiBOT](https://github.com/Dhruv852/luigi.botV1) — Multimodal Mario Themed Chatbot Application
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
