@@ -10,14 +10,26 @@
 
 ---
 
+<table>
+<tr>
+<td width="65%">
+
 ## 👨‍💻 About Me
 
 🚀 Building **ML-powered applications**  
 🧠 Learning **AI, ML & intelligent systems**  
-🤝 Open to **collabs, research & open-source**  
+🤝 Open to collabs, research & open-source  
 📬 **dhruvtiwari.21.2004@gmail.com**  
 😄 **he/him**
-<img src = "https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif">
+
+</td>
+<td width="35%" align="right">
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
