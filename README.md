@@ -1,8 +1,8 @@
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header"/>
 
-<h1 align="center">Hi 👋, I'm Dhruv Tiwari</h1>
-<h3 align="center">Machine Learning & AI Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm Dhruv Tiwari</h1>
+<h3 align="left">Machine Learning & AI Enthusiast</h3>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=36BCF7&width=700&lines=Building+ML-powered+Applications;Learning+AI,+ML+%26+Intelligent+Systems;Open+to+Collaboration+%26+Research" />
 
